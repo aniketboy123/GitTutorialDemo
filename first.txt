@@ -1,0 +1,2 @@
+this is my first version control system.
+git and github is awesome to use.
